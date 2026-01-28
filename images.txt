@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:latest
+sysdig/sysdig:0.41.3
