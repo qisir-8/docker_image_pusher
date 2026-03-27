@@ -1,1 +1,1 @@
-nvidia/cuda:12.2.0-base-ubuntu22.04
+gitlab-org/gitlab-runner:alpine-v18.10.0
