@@ -1,1 +1,1 @@
-gitlab-runner:alpine-v18.10.0
+gitlab-org/gitlab-runner:alpine-v18.10.0
