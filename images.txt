@@ -1,1 +1,1 @@
-registry.gitlab.com/gitlab-org/gitlab-runner:alpine-v18.10.0
+ghcr.io/dexidp/dex:v2.45.0
