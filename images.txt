@@ -1,1 +1,1 @@
-eclipse-temurin:17-jdk
+tomcat:9.0
